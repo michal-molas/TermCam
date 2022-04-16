@@ -18,3 +18,8 @@ Examples:
 TermCam uses CImg (http://cimg.eu/). 
 
 The only thing you need to do is have the CImg.h file (download from website above) in the same directory as termcam.cpp and compile with `-ljpeg`, `-lz` flags.
+
+## Requirements
+TermCam (for now) can only be used on linux.
+
+You need a connected webcam.
